@@ -1,0 +1,7 @@
+Como rodar o programa:
+
+* Usar Python 3.6+
+* Na linha de comando, inserir "python app.py <nome-do-arquivo>"
+
+
+Obs: Já existe um arquivo exemplo no repositório chamado "log.txt"
